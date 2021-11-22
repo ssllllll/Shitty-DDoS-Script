@@ -3,7 +3,15 @@
 
 This is a bad ddos tool script i made, there are tons of tools 100 times better but i'll try to improve this and make it public here
 
-Just change the 
+Just change
+
+`Target`
+
+`Ip`
+
+`Port`
+
+and choose the thread numbers
 
 ## Script 1
 
